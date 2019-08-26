@@ -3,9 +3,7 @@
     <parallax class="section page-header header-filter" :style="headerStyle">
       <div class="container">
         <div class="md-layout">
-          <div
-            class="md-layout-item md-size-50 md-small-size-70 md-xsmall-size-100"
-          >
+          <div class="md-layout-item md-size-50 md-small-size-70 md-xsmall-size-100">
             <h1 class="title">Your Story Starts With Us.</h1>
             <h4>
               Every landing page needs a small description after the big bold
@@ -14,12 +12,7 @@
               impression.
             </h4>
             <br />
-            <md-button
-              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-              class="md-success md-lg"
-              target="_blank"
-              ><i class="fas fa-play"></i> Watch video</md-button
-            >
+            <md-button href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="md-success md-lg" target="_blank"><i class="fas fa-play"></i> Watch video</md-button>
           </div>
         </div>
       </div>
@@ -28,9 +21,7 @@
       <div class="section">
         <div class="container">
           <div class="md-layout">
-            <div
-              class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto text-center"
-            >
+            <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto text-center">
               <h2 class="title text-center">Let's talk product</h2>
               <h5 class="description">
                 This is the paragraph where you can write more details about
@@ -95,18 +86,13 @@
                 <div class="team-player">
                   <md-card class="md-card-plain">
                     <div class="md-layout-item md-size-50 mx-auto">
-                      <img
-                        :src="teamImg1"
-                        alt="Thumbnail Image"
-                        class="img-raised rounded-circle img-fluid"
-                      />
+                      <img :src="teamImg1" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid" />
                     </div>
                     <h4 class="card-title">
                       Gigi Hadid
                       <br />
                       <small class="card-description text-muted">Model</small>
                     </h4>
-
                     <md-card-content>
                       <p class="card-description">
                         You can write here details about one of your team
@@ -115,24 +101,14 @@
                         to be able to follow them outside the site.
                       </p>
                     </md-card-content>
-
                     <md-card-actions class="text-center">
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-twitter"></i>
                       </md-button>
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-instagram"></i>
                       </md-button>
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-facebook-square"></i>
                       </md-button>
                     </md-card-actions>
@@ -143,20 +119,13 @@
                 <div class="team-player">
                   <md-card class="md-card-plain">
                     <div class="md-layout-item md-size-50 mx-auto">
-                      <img
-                        :src="teamImg2"
-                        alt="Thumbnail Image"
-                        class="img-raised rounded-circle img-fluid"
-                      />
+                      <img :src="teamImg2" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid" />
                     </div>
                     <h4 class="card-title">
                       Carla Hortensia
                       <br />
-                      <small class="card-description text-muted"
-                        >Designer</small
-                      >
+                      <small class="card-description text-muted">Designer</small>
                     </h4>
-
                     <md-card-content>
                       <p class="card-description">
                         You can write here details about one of your team
@@ -165,18 +134,11 @@
                         to be able to follow them outside the site.
                       </p>
                     </md-card-content>
-
                     <md-card-actions class="text-center">
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-twitter"></i>
                       </md-button>
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-linkedin"></i>
                       </md-button>
                     </md-card-actions>
@@ -187,18 +149,13 @@
                 <div class="team-player">
                   <md-card class="md-card-plain">
                     <div class="md-layout-item md-size-50 mx-auto">
-                      <img
-                        :src="teamImg3"
-                        alt="Thumbnail Image"
-                        class="img-raised rounded-circle img-fluid"
-                      />
+                      <img :src="teamImg3" alt="Thumbnail Image" class="img-raised rounded-circle img-fluid" />
                     </div>
                     <h4 class="card-title">
                       Kendall Jenner
                       <br />
                       <small class="card-description text-muted">Model</small>
                     </h4>
-
                     <md-card-content>
                       <p class="card-description">
                         You can write here details about one of your team
@@ -207,24 +164,14 @@
                         to be able to follow them outside the site.
                       </p>
                     </md-card-content>
-
                     <md-card-actions class="text-center">
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-twitter"></i>
                       </md-button>
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-instagram"></i>
                       </md-button>
-                      <md-button
-                        href="javascript:void(0)"
-                        class="md-just-icon md-simple"
-                      >
+                      <md-button href="javascript:void(0)" class="md-just-icon md-simple">
                         <i class="fab fa-facebook-square"></i>
                       </md-button>
                     </md-card-actions>
@@ -278,7 +225,6 @@
     </div>
   </div>
 </template>
-
 <script>
 export default {
   bodyClass: "landing-page",
@@ -316,17 +262,17 @@ export default {
   }
 };
 </script>
-
 <style lang="scss" scoped>
 .md-card-actions.text-center {
   display: flex;
   justify-content: center !important;
 }
+
 .contact-form {
   margin-top: 30px;
 }
 
-.md-has-textarea + .md-layout {
+.md-has-textarea+.md-layout {
   margin-top: 15px;
 }
 </style>
